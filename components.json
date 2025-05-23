@@ -1,0 +1,6 @@
+{
+  "path": "./components",
+  "aliases": {
+    "@/components": "./components"
+  }
+}
